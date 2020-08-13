@@ -1,0 +1,19 @@
+
+
+#banner {
+    height: 100px;
+    background-color: #0c5460;
+    color: #f7f7f7;
+    margin-bottom: 1rem;
+}
+
+#banner #logo {
+    margin-left: -1rem;
+    margin-top: -0.1rem;
+}
+
+#banner .title {
+    padding: 30px 0 0 4rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
