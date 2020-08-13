@@ -17,3 +17,8 @@
     font-size: 1.5rem;
     font-weight: bold;
 }
+
+.row.test > .col-lg-1 {
+    border: thin solid darkviolet;
+    text-align: center;
+}
